@@ -2,9 +2,9 @@
     "enabled" : true,
     "context" : "server",
     "identifier" : "IgnMod",
-    "display_name" : "IgnMod V1",
+    "display_name" : "IgnMod",
     "description" : "Completely change PA and turn it into a medieval warfare game, lots of arrows, and well armoured melee fighters afoot!",
     "author" : "Igncom1",
-    "version" : "1",
+    "version" : "1.2",
     "signature" : "(not yet implemented)"
 }
