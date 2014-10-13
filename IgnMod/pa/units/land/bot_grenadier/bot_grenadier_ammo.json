@@ -2,8 +2,8 @@
 "damage":15,"splash_damage":15,
 "splash_radius":1,
 "full_damage_splash_radius":1,
-"initial_velocity":150.0,
-"max_velocity":150.0,
+"initial_velocity":75.0,
+"max_velocity":75.0,
 "lifetime":5,
 "model":null,
 "fx_trail": {

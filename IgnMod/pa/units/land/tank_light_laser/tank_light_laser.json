@@ -7,7 +7,7 @@
 "unit_types":["UNITTYPE_Tank","UNITTYPE_Mobile","UNITTYPE_Offense","UNITTYPE_Artillery","UNITTYPE_Land","UNITTYPE_Basic","UNITTYPE_FactoryBuild"],
 "transportable":{"size":1},
 "guard_layer":"WL_LandHorizontal",
-"navigation":{"type":"land-small","acceleration":100,"brake":100,"move_speed":8,"turn_speed":25},
+"navigation":{"type":"land-small","acceleration":100,"brake":100,"move_speed":8,"turn_speed":20},
 "physics":{"radius":4,"push_class":60},
 "recon":{"observer":{"items":[{"layer":"surface_and_air","channel":"sight","shape":"capsule","radius":100}]}},
 "model":{"filename":"/pa/units/land/tank_light_laser/tank_light_laser.papa",
