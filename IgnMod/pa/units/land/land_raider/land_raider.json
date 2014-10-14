@@ -1,6 +1,6 @@
 {"base_spec":"/pa/units/land/base_vehicle/base_vehicle.json",
 "display_name":"Camel Rider",
-"description":"Weak melee unit, designed for killing fast or ranged units",
+"description":"Weak melee unit, designed for killing faft and ranged units",
 "max_health":400,
 "build_metal_cost":70,
 "attachable":{"offsets":{"root":[0,0,0],"head":[0,-0.2,1.6]}},
@@ -27,4 +27,4 @@
 "TEMP_texelinfo":4.03457,
 "mesh_bounds":[3.5,4.5,2],
 "tools":[
-{"spec_id":"/pa/units/land/assault_bot_adv/assault_bot_adv_tool_weapon.json","aim_bone":"socket_rightMuzzle","muzzle_bone":["socket_rightMuzzle"]}]}
+{"spec_id":"/pa/units/land/assault_bot/assault_bot_tool_weapon.json","aim_bone":"socket_rightMuzzle","muzzle_bone":["socket_rightMuzzle"]}]}
