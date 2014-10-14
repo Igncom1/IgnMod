@@ -14,5 +14,5 @@
 {"spec_id":"/pa/units/land/bot_grenadier/bot_grenadier_tool_weapon.json","aim_bone":"bone_pitch","muzzle_bone":["socket_rightMuzzle"]},
 {"spec_id":"/pa/units/land/bot_grenadier/bot_grenadier_tool_weapon.json","aim_bone":"bone_pitch","muzzle_bone":["socket_rightMuzzle"]},
 {"spec_id":"/pa/units/land/bot_grenadier/bot_grenadier_tool_weapon.json","aim_bone":"bone_pitch","muzzle_bone":["socket_rightMuzzle"]},
-{"spec_id":"/pa/units/land/bot_grenadier/bot_grenadier_tool_weapon.json","aim_bone":"bone_pitch","muzzle_bone":["socket_rightMuzzle"]},
+{"spec_id":"/pa/units/land/bot_grenadier/bot_grenadier_tool_weapon.json","aim_bone":"bone_pitch","muzzle_bone":["socket_rightMuzzle"]}
 ],"events":{"build_complete":{"audio_cue":"/SE/Build_Complete/structure_small"},"fired":{"audio_cue":"/SE/Weapons/structure/laser_defense_ADV_fire","effect_spec":"/pa/effects/specs/default_muzzle_flash.pfx socket_rightMuzzle /pa/effects/specs/default_muzzle_flash.pfx socket_centerMuzzle /pa/effects/specs/default_muzzle_flash.pfx socket_leftMuzzle"},"died":{"audio_cue":"/SE/Death/structure_small","effect_scale":0.75}},"mesh_bounds":[8,8,23],"area_build_separation":18,"TEMP_texelinfo":15.3609}
