@@ -10,7 +10,7 @@
 "navigation":{"type":"land-small",
 "acceleration":250,
 "brake":250,
-"move_speed":30,
+"move_speed":20,
 "turn_speed":180},
 "physics":{"radius":3,
 "push_class":50},

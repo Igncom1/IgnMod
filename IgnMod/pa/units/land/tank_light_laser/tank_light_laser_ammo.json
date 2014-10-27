@@ -1,19 +1,20 @@
-{"base_spec":"/pa/ammo/base_shell/base_shell.json",
-"model": {
-    "filename": "/pa/units/air/shell/shell.papa"
-  },
+{"base_spec":"/pa/ammo/base_bullet/base_bullet.json",
+"damage":300,"splash_damage":300,
+"splash_radius":5,
+"full_damage_splash_radius":5,
+"initial_velocity":70.0,
+"max_velocity":70.0,
+"lifetime":5,
+"model":null,
 "fx_trail": {
-    "filename": "/pa/effects/specs/shell_proj_trail.pfx",
+    "filename": "/pa/effects/specs/shell_mortar_small_proj_trail.pfx",
     "offset": [
       0.0,
-      0.8,
+      1.0,
       0.0
     ]
   },
-"offset":[0.0,0.0,0.0],
-"damage":300,
-"splash_damage":300,
-"splash_radius":5,
-"initial_velocity":350.0,
-"max_velocity":350.0,
-"lifetime":2}
+  "model": {
+    "filename": "/pa/units/air/mortar/mortar.papa"
+  },
+"offset":[0.0,0.0,0.0]}}
